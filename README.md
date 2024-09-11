@@ -2,6 +2,7 @@ Dictionary App Using JavaScript
 A simple web-based dictionary app that allows users to search for word meanings. Built using HTML, CSS, and JavaScript, this project demonstrates basic JavaScript functionality, DOM manipulation, and API integration for fetching dictionary data.
 
 Features
+
 Search for word meanings
 User-friendly design
 Social media links with Font Awesome icons
@@ -16,8 +17,11 @@ Installation
 
 1.Clone the repository:
   git clone https://github.com/adityashedole/dictionary-app.git
+  
 2.Navigate to the project directory:
+
   cd dictionary-app
+  
 3. Open index.html in your browser.
 
 Technologies Used
