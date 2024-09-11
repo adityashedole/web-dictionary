@@ -16,11 +16,11 @@ Demo
 Installation
 
 1.Clone the repository:
-  git clone https://github.com/adityashedole/dictionary-app.git
+    git clone https://github.com/adityashedole/dictionary-app.git
   
 2.Navigate to the project directory:
 
-  cd dictionary-app
+    cd dictionary-app
   
 3. Open index.html in your browser.
 
