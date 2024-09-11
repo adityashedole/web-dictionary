@@ -11,7 +11,9 @@ Screenshots
 ![dict3](https://github.com/user-attachments/assets/add5b567-d699-4a6f-9f75-9e8d9d08646c)
 
 Demo
+
 Installation
+
 1.Clone the repository:
   git clone https://github.com/adityashedole/dictionary-app.git
 2.Navigate to the project directory:
