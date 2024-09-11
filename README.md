@@ -21,12 +21,14 @@ Installation
 3. Open index.html in your browser.
 
 Technologies Used
+
 HTML5 – Structure of the web page
 CSS3 – Styling of the web page
 JavaScript – Adding dynamic functionality
 Font Awesome – Icons for social media links
 
 How It Works
+
 The app allows users to search for the definition of any word. When a word is entered and the "Search" button is clicked, the app fetches the word’s definition using an API (or predefined dictionary) and displays the result on the page.
 
 
